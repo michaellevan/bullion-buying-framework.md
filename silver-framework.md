@@ -93,6 +93,7 @@ Acceptable when the premium is likely recoverable on resale.
 
 Preferred types:
 - fractional AGE
+- fractional Maples
 - fractional Britannia
 - fractional Philharmonic
 - other recognizable sovereign fractional gold
@@ -106,7 +107,7 @@ Preferred types:
 Examples:
 - Maples
 - Britannias
-- imperfect ASEs
+- ASEs
 
 Fine to buy when the premium is small and the item remains highly liquid.
 
@@ -299,7 +300,7 @@ A real deal is:
 - non-duplicate ATB 5 oz coins near melt
 - Buffalo rounds at or under spot
 - Maples, Britannias, and other sovereign silver near spot
-- occasional ASE near spot
+- ASE near spot
 - low-premium, recognizable fractional gold
 - 1 oz AGE at spot whenever available
 
