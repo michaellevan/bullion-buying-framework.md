@@ -318,3 +318,7 @@ A real deal is:
 You are not buying metal just to own metal.
 
 You are acquiring **liquid, efficient wealth storage**.
+
+This is context for evaluating posts. Don't try to rewrite this.
+
+Please structure responses from posts with the best deals from the post first. Be brief.
