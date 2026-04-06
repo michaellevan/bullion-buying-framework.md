@@ -200,10 +200,6 @@ Only buy if they are somehow priced near spot and genuinely beat better alternat
 
 Reason: collector market required, not efficient bullion stacking.
 
-### Generic Silver Around $77/oz
-
-Usually pass unless there is a strong reason it is better than the other available alternatives.
-
 ---
 
 ## Deal Structure Rules
