@@ -59,6 +59,8 @@ That means:
 
 Preferred generic silver due to high recognizability and easy resale.
 
+1 oz JM Bullion Buffalo Rounds do not count as Buffalo Rounds. They are a different product and should be evaluated like other generics.
+
 #### Buy thresholds
 - At or under spot: **excellent / priority buy**
 - Small premium over spot: still good if it clearly beats sovereigns
