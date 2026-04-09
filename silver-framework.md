@@ -43,6 +43,7 @@ Highest priority when all of the following are true:
 - Great Sand Dunes
 - Ellis Island
 - Harpers Ferry
+- Cumberland Gap
 
 #### ATB buy rules
 - Ideal: **melt + $5**
