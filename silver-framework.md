@@ -50,11 +50,11 @@ Highest priority when all of the following are true:
 - Strong buy: **melt + $10 or less**
 - Usually avoid: **premium over $40** unless legitimately scarce and still competitive versus other options
 
-At **$73.49 spot**, 5 oz melt is about **$367.45**.
+5 oz melt is about **$376.55**.
 
 That means:
-- Ideal ATB buy: about **$372.45**
-- Strong buy ceiling: about **$377.45**
+- Ideal ATB buy: about **$380.00**
+- Strong buy ceiling: about **$390.00**
 
 ### 1 oz Buffalo Rounds
 
