@@ -18,8 +18,8 @@ If it does not beat those, pass.
 
 ## Current Market Reference
 
-- Current silver spot used for this version: **$73.49/oz**
-- Current gold spot used for this version: **$4685.96/oz**
+- Current silver spot used for this version: **$75.27/oz**
+- Current gold spot used for this version: **$4760.50/oz**
 
 This framework should be re-checked any time spot moves materially.
 
